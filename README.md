@@ -9,6 +9,6 @@
 - [T. Wiatowski and H. Bolcskei, A mathematical theory of deep convolutional neural networks for feature extraction.](https://arxiv.org/abs/1512.06293)
 - [T. Wiatowski, M. Tschannen, A. Stanic, P. Grohs, and H. Bolcskei, Discrete deep feature extraction: A theory and new architectures.](https://arxiv.org/abs/1605.08283)
 - [P. Grohs, T. Wiatowski, and H. Bolcskei, Deep convolutional neural networks on cartoon functions.](https://arxiv.org/abs/1605.00031)
-- [R. Balan, M. Singh, and D. Zou, “Lipschitz properties for deep convolutional networks](https://arxiv.org/abs/1701.05217)
-- [T. Wiatowski, P. Grohs and H. B"olcskei, Energy propagation in deep convolutional neural networks.](https://arxiv.org/abs/1704.03636)
+- [R. Balan, M. Singh, and D. Zou, Lipschitz properties for deep convolutional networks](https://arxiv.org/abs/1701.05217)
+- [T. Wiatowski, P. Grohs and H. B\"olcskei, Energy propagation in deep convolutional neural networks.](https://arxiv.org/abs/1704.03636)
 
