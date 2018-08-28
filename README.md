@@ -3,7 +3,7 @@
 ## Paper List
 
 - [S. Mallat, Group invariant scattering.](https://www.di.ens.fr/~mallat/papiers/ScatCPAM.pdf) 
-  - This
+  - This famous paper introduce the scattering networks.
 - [J. Bruna and S. Mallat, Invariant scattering convolution networks.](https://www.di.ens.fr/~mallat/papiers/Bruna-Mallat-Pami-Scat.pdf)
 - [S. Mallat, Understanding deep convolutional networks.](https://www.di.ens.fr/~mallat/papiers/RSTA2015Published.pdf)
 - [T. Wiatowski and H. Bolcskei, A mathematical theory of deep convolutional neural networks for feature extraction.](https://arxiv.org/abs/1512.06293)
