@@ -1,1 +1,1 @@
-# Scattering-Networks
+# Scattering Networks
