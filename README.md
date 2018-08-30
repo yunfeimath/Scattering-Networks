@@ -9,6 +9,7 @@
 - [A mathematical theory of deep convolutional neural networks for feature extraction](https://arxiv.org/abs/1512.06293)
   - Extention of Mallet's scattering networks. The theory allows for general semi-discrete signal transforms, general Lipschitz-continuous non-linearities, and incorporates continuous-time Lipschitz pooling operators that emulate discrete-time subsampling and averaging.
 - [Discrete deep feature extraction: A theory and new architectures](https://arxiv.org/abs/1605.08283)
+  - Discrete version of the previous paper.
 - [Deep convolutional neural networks on cartoon functions](https://arxiv.org/abs/1605.00031)
 - [Lipschitz properties for deep convolutional networks](https://arxiv.org/abs/1701.05217)
 - [Energy propagation in deep convolutional neural networks](https://arxiv.org/abs/1704.03636)
