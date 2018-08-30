@@ -15,5 +15,5 @@
   - Deformation stability for cartoon functions.
 - [Lipschitz properties for deep convolutional networks](https://arxiv.org/abs/1701.05217)
 - [Energy propagation in deep convolutional neural networks](https://arxiv.org/abs/1704.03636)
-  - Characterization of the feature map energy decay rate.
+  -  This paper establishes conditions for energy conservation (and thus for a trivial null-set) for a wide class of feature extractors and characterizes corresponding feature map energy decay rates.
 - [Topology reduction in deep convolutional feature extraction networks](https://arxiv.org/abs/1707.02711)
